@@ -2,11 +2,14 @@
 
 - 👀 I’m interested in learning the basics, as far as what to do with it...not sure yet.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning...whatever I can at the moment.
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something very beginner friendly.
 
 - 📫 How to reach me ...
+
+Certs:
+https://www.freecodecamp.org/certification/salvyrn/responsive-web-design
 
 <!---
 salvyrn/salvyrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
